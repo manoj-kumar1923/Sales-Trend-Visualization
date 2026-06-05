@@ -33,3 +33,9 @@ The Excel workbook contains **3 sheets**:
   - Month-over-Month (MoM) growth %
   - Year-to-Date (YTD) cumulative revenue
   - Annual totals per category
+
+## 📊 Charts & Visuals
+
+- **Line Chart** — Monthly total sales trend (smooth, styled)
+- **Bar Chart** — Annual sales by product category
+- **KPI Cards** — Total Revenue, Best Month, Top Category, Annual Growth %
