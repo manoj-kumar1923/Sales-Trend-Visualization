@@ -45,3 +45,17 @@ The Excel workbook contains **3 sheets**:
 ### Prerequisites
 - Microsoft Excel 2016+ **or** LibreOffice Calc 7+
 - Python 3.8+ (only if regenerating the workbook)
+
+### Open the Workbook
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/sales-trend-visualization.git
+   ```
+2. Open `Sales_Trend_Visualization.xlsx` in Excel or LibreOffice Calc.
+3. Navigate to the **Dashboard** sheet for the visual summary.
+
+### Regenerate the Workbook (Optional)
+```bash
+pip install openpyxl
+python create_excel.py
+```
