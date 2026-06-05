@@ -39,3 +39,9 @@ The Excel workbook contains **3 sheets**:
 - **Line Chart** — Monthly total sales trend (smooth, styled)
 - **Bar Chart** — Annual sales by product category
 - **KPI Cards** — Total Revenue, Best Month, Top Category, Annual Growth %
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Microsoft Excel 2016+ **or** LibreOffice Calc 7+
+- Python 3.8+ (only if regenerating the workbook)
