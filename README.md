@@ -22,3 +22,14 @@ The Excel workbook contains **3 sheets**:
 | `Sales Data` | Raw monthly sales data for 5 product categories with MoM growth and YTD cumulative formulas |
 | `Dashboard` | Visual KPI cards + Line chart (monthly trend) + Bar chart (category comparison) |
 | `Summary & Insights` | Narrative key insights and strategic recommendations |
+
+## 🗂️ Data Details
+
+- **Time Period**: FY 2024 (Jan – Dec)
+- **Product Categories**: Electronics, Apparel, Home & Garden, Sports, Beauty
+- **Metrics Tracked**:
+  - Monthly sales per category
+  - Monthly total revenue
+  - Month-over-Month (MoM) growth %
+  - Year-to-Date (YTD) cumulative revenue
+  - Annual totals per category
