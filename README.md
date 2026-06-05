@@ -12,3 +12,13 @@ sales-trend-visualization/
 └── sample_data/
     └── sales_data.csv               # Raw sample data (CSV format)
 ```
+
+## 📋 Workbook Overview
+
+The Excel workbook contains **3 sheets**:
+
+| Sheet | Description |
+|-------|-------------|
+| `Sales Data` | Raw monthly sales data for 5 product categories with MoM growth and YTD cumulative formulas |
+| `Dashboard` | Visual KPI cards + Line chart (monthly trend) + Bar chart (category comparison) |
+| `Summary & Insights` | Narrative key insights and strategic recommendations |
