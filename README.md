@@ -49,7 +49,7 @@ The Excel workbook contains **3 sheets**:
 ### Open the Workbook
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/sales-trend-visualization.git
+   git clone https://github.com/manoj-kumar1923/Sales-Trend-Visualization/blob/main/Sales_Trend_Visualization%5B1%5D.xlsx
    ```
 2. Open `Sales_Trend_Visualization.xlsx` in Excel or LibreOffice Calc.
 3. Navigate to the **Dashboard** sheet for the visual summary.
